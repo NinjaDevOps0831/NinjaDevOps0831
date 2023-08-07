@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Senior DevOps Engineer</h1>
 <h3 align="center">The DevOps Guy who ♥ automating stuff</h3>
 
-![](https://github.com/ninjadev0831/ninjadev0831/blob/main/images/background.jpg)
-
 🌱 I’m currently working as **Sr. DevOps Engineer**
 
 💡 Hashtag that describes me **`#DevOpsWizard`**
