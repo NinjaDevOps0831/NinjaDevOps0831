@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Senior DevOps Engineer</h1>
 <h3 align="center">The DevOps Guy who ♥ automating stuff</h3>
 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=ninjadev0831&label=Profile%20views&color=0e75b6&style=flat" alt="ninjadev0831" /> </p>
+
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ninjadev0831" alt="ninjadev0831" /></a> </p>
+
 🌱 I’m currently working as **Sr. DevOps Engineer**
 
 💡 Hashtag that describes me **`#DevOpsWizard`**
