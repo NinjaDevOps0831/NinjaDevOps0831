@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Senior DevOps Engineer <img src="https://komarev.com/ghpvc/?username=ninjadev0831&label=Profile%20views&color=0e75b6&style=flat" alt="ninjadev0831" /></h1>
 <h3 align="center" style="display: inline">The DevOps Guy who ♥ automating stuff</h3>
 
+<br />
+
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ninjadev0831" alt="ninjadev0831" /></a></p>
+
+<br />
 
 🌱 I’m currently working as **Sr. DevOps Engineer**
 
@@ -59,6 +63,8 @@
 
 #### Editor / IDE I ♥
 <p align="left"><img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="sublime" title="sublime" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
+
+<br />
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ninjadev0831&langs_count=40&layout=compact&theme=tokyonight&include_all_commits=true&line_height=40">
