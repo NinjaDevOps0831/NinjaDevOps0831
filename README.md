@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
-<h2 align="center">👋 Hello there, 🚀 Welcome to my GitHub profile! 🛠️ <img src="https://komarev.com/ghpvc/?username=ninjadev0831&label=Profile%20views&color=0e75b6&style=flat" alt="ninjadev0831" /></h2>
+<h2 align="center">👋 Hello there, 🚀 Welcome to my GitHub profile! 🛠️ <img src="https://komarev.com/ghpvc/?username=DanielSmith0831&label=Profile%20views&color=0e75b6&style=flat" alt="DanielSmith0831" /></h2>
 
 <!--Intro start-->
 🛢️ I'm a Software Developer and DevOps Engineer, passionate about automating and optimizing software development, deployment, and infrastructure management. As a DevOps engineer, I thrive at the intersection of development and operations, working tirelessly to enhance the efficiency, scalability, and reliability of software systems.</br>
@@ -21,7 +21,7 @@
 <!--- trophy (start) -->
 <p align = "center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ninjadev0831&langs_count=40&layout=compact&theme=tokyonight&include_all_commits=true&line_height=40">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSmith0831&langs_count=40&layout=compact&theme=tokyonight&include_all_commits=true&line_height=40">
   </a>
 </p>
 <!--- trophy (start) -->
@@ -29,7 +29,7 @@
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=ninjadev0831&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=DanielSmith0831&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
