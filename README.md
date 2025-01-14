@@ -15,7 +15,7 @@
 
 🔗 Connect with me to discuss all things DevOps, automation, and how we can work together to drive innovation and excellence in software development. Let's build a future where development and operations work in harmony to deliver exceptional software experiences.</br>
 
-📫 Feel free to reach out and connect with me here on GitHub or find me on LinkedIn to start a conversation. You can reach me on Email: dalejandrole@gmail.com. Let's embark on this DevOps journey together! 🚀</br>
+📫 Feel free to reach out and connect with me here on GitHub or find me on LinkedIn to start a conversation. Let's embark on this DevOps journey together! 🚀</br>
 <!--Intro end-->
 
 <!--- trophy (start) -->
